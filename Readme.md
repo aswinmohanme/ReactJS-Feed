@@ -7,3 +7,5 @@ Simple post feed witten in ReactJS and Meteor <br>
 `npm install meteor` <br>
 2. Navigate to the project directory and run Meteor.
 `meteor`
+
+## Have Fun
